@@ -26,5 +26,18 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "description": "A questionnaire framework.",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TonyChen0724/Questionnaire.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TonyChen0724/Questionnaire/issues"
+  },
+  "homepage": "https://github.com/TonyChen0724/Questionnaire#readme"
 }
